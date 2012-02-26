@@ -1,0 +1,10 @@
+#+TITLE: toshine-etc
+#+AUTHOR: 'Mash (Thomas Herbert)
+#+DATE: 2012-02-26
+#+DESCRIPTION: Repository for various toshine.org code projects and configuration files.
+
+* toshine-etc
+Repository for various toshine.org code and configuration files.
+| kindleClippings.php          | 20110624 | A small PHP function with some regex magic to pull data from the Amazon Kindle "My Clippings.txt" file.                            |
+| kindleClippingsCitations.php | 20110707 | A small PHP function to convert an uploaded Amazon Kindle "My Clippings File" and convert it into common academic citation styles. |
+| myclippings.txt              |     none | An example of an Amazon Kindle "My Clippings.txt" file.                                                                            |
